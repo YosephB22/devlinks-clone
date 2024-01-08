@@ -18,6 +18,7 @@ const config: Config = {
         "dark-purple": "#623afd",
         "light-purple": "#eeecff",
         "grey-text": "#878787",
+        "grey-bg": "#efefef",
       },
     },
   },
